@@ -271,7 +271,7 @@ class _BmiScreenState extends State<BmiScreen> {
             ),
             Container(
               width: double.infinity,
-              color: Colors.blue,
+              color: Colors.blueAccent,
               child: MaterialButton(
                 height: 60.0,
                 onPressed: () {
